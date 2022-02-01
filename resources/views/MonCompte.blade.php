@@ -1,4 +1,4 @@
-@extends('layouts.app')
+ @extends('layouts.app')
 
 @section('contenu')
 
@@ -6,4 +6,7 @@
             <h1>Mon compte</h1>
         </div>
 
-    @endsection
+    @endsection 
+
+    
+ 

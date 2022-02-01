@@ -11,7 +11,8 @@
   
 </head>
 <body>
-    <nav class="navbar navbar-inverse"> 
+ 
+     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container-fluid">
             <div class="navbar-header">
             <a class="navbar-brand" href="{{URL::to('/')}}">KeepMyPet</a>
@@ -30,7 +31,7 @@
             </ul>
          
         </div>
-    </nav>
+    </nav>  
     <div class="container">
 
             {{--debut du contenu--}}
